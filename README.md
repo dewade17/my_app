@@ -1,16 +1,16 @@
-# my_app
+# My App
 
-A new Flutter project.
+Demonstrate flutter usage, to practice layout, navigation, and CRUD with http protocol
 
-## Getting Started
+## Requirements
 
-This project is a starting point for a Flutter application.
+- Flutter 3.19.2 +
+- Android Studio (version 2023.1)
+- flutter http package
 
-A few resources to get you started if this is your first Flutter project:
+## How to run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clone this project with command `git clone git@github.com:dewade17/my_app.git`
+- Go to directory with `cd my_app`
+- Start your emulator
+- Run the flutter project with comamnd `flutter run`
